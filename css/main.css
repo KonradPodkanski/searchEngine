@@ -31,7 +31,7 @@ body {
   background-size: cover;
   border-bottom: 1px solid black;
   color: white;
-  padding: 30px 20px;
+  padding: 3rem 2rem;
 }
 .card .header .shadow {
   background-color: rgba(0, 0, 0, 0.3);
@@ -45,7 +45,7 @@ body {
   font-family: "Satisfy", cursive;
   letter-spacing: 0.2rem;
   z-index: 1;
-  margin-bottom: 10px;
+  margin-bottom: 1rem;
   font-size: 3rem;
 }
 .card .header input {
@@ -58,13 +58,12 @@ body {
   z-index: 1;
 }
 .card .drink-list {
-  padding: 20px;
+  padding: 2rem;
   max-height: 400px;
-  overflow-y: scroll;
 }
 .card .drink-list ul {
   overflow: hidden;
-  padding: 10px;
+  padding: 1rem;
   list-style-type: none;
 }
 .card .drink-list ul li {
